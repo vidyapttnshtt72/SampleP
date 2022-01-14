@@ -9,6 +9,9 @@ public class Day3 {
 		System.out.println("WebLoginHomeLoan");
 	}
 	@Test
-	public void mobileLogin
+	public void mobileLogin()
+	{
+		System.out.println("mobile login");
+	}
 
 }
