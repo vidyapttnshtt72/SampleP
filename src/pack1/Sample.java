@@ -8,5 +8,10 @@ public class Sample {
 	{
 		System.out.println("Hello");
 	}
+	@Test
+	public void sampleText2()
+	{
+		System.out.println("Hello2");
+	}
 
 }
