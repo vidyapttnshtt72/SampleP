@@ -12,6 +12,8 @@ public class Sample {
 	public void sampleText2()
 	{
 		System.out.println("Hello2");
+		System.out.println("Hello2");
+		
 	}
 
 }
